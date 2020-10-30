@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-29T20:25:14-04:00
+
+====== Inventory ======
+Created Thursday 29 October 2020
+
+nothing here!
