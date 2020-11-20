@@ -5,4 +5,25 @@ Creation-Date: 2020-10-29T20:25:14-04:00
 ====== Inventory ======
 Created Thursday 29 October 2020
 
-nothing here!
+**Equiped**
+Warpick (1d8 piercing)
+Drow shield
+Drow short sword
+dagger
+dagger
+chain shirt
+bag of caltrops
+
+**Backpack**
+hand-crossbows (2 drow-poisoned bolts)
+8gp
+4sp
+12cp
+6 makeshift mushroom torches
+50 mushroom rations
+hogs head sack (13 rations)
+burlap sack
+burlap sack
+100 foot spider-silk rope
+phosphorescent moss (light)
+
