@@ -6,24 +6,24 @@ Creation-Date: 2020-10-29T20:25:14-04:00
 Created Thursday 29 October 2020
 
 **Equiped**
-Warpick (1d8 piercing)
-Drow shield
-Drow short sword
+maul (2d6 bludgeoning)
+longsword
 dagger
 dagger
-chain shirt
+Mythril plate (No disadvantage on stealth)
 bag of caltrops
 
 **Backpack**
+Drow short sword
+Drow shield
 hand-crossbows (2 drow-poisoned bolts)
 8gp
 4sp
 12cp
 6 makeshift mushroom torches
 50 mushroom rations
-hogs head sack (13 rations)
-burlap sack
-burlap sack
-100 foot spider-silk rope
+hogs head sack (2 rations)
+2 pounds cooked hooked horror meat
+2 burlap sacks
+90 foot spider-silk rope
 phosphorescent moss (light)
-
