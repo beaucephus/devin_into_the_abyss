@@ -6,7 +6,14 @@ Creation-Date: 2020-10-29T20:12:58-04:00
 Created Thursday 29 October 2020
 
 HP: 24/24
-1 somewhere for Devin
+2 somewhere for Devin
+Disadvantage on all WIS and CHA checks
+Suffering from insane aversion to pain. 
+Any time you take damage, DC15 CHA save or be confused for 1 minute.
+
+=== Session 6 2020/12/17 ===
+Entering Shushar's village
+
 
 === Session 5 2020/12/03 ===
 Fought maw demon and Dybbuk. long rest.

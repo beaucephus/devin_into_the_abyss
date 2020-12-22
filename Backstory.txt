@@ -6,3 +6,6 @@ Creation-Date: 2020-10-29T20:14:16-04:00
 Created Thursday 29 October 2020
 
 Dhommot loves his family. His lineage is one of mages and scholars, uncommon for a dwarven family. Given the latent potential in his blood, Dhommot was sure he would make his family proud standing tall as the most powerful wizard of the century. That future would not come to pass. Try as he might, Dhommot was a mediocre mage at best, unable to produce even a simple firebolt. Determined to make his family proud in whatever way he could, Dhommot set out to find his own path as an adventurer with his brother, Fokhoum, a powerful wizard himself. They journeyed and learned and grew together until...(they are separated somehow, not exactly sure about the circumstances, feel free to take this and include it or ignore it). Dhommot now vows to find his brother and return home with tails of their harrowing journey. Surely that will make the family proud.
+
+
+{{..\extra_backstory.png}}
