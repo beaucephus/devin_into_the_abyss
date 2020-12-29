@@ -20,10 +20,9 @@ hand-crossbows (2 drow-poisoned bolts)
 8gp
 4sp
 12cp
-6 makeshift mushroom torches
-50 mushroom rations
-hogs head sack (2 rations)
-2 pounds cooked hooked horror meat
+3 makeshift mushroom torches
+35 mushroom rations
+hogs head sack (1 rations)``
 2 burlap sacks
 90 foot spider-silk rope
 phosphorescent moss (light)

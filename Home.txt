@@ -5,15 +5,30 @@ Creation-Date: 2020-10-29T20:12:58-04:00
 ====== Home ======
 Created Thursday 29 October 2020
 
-HP: 24/24
-2 somewhere for Devin
-Disadvantage on all WIS and CHA checks
-Suffering from insane aversion to pain. 
-Any time you take damage, DC15 CHA save or be confused for 1 minute.
+HP: 37/37
+2 insanity points
+
+**Spell Slots**
+**1st**
+0/2
+
+=== Session 8 2020/12/28 ===
+Left lock house.
+Found 4-way fork with broken mermaid statue.
+The statue was trapped. Fought water weirds.
+Took the 4th path, to the right of the mermaid statue.
+Arrived at Grakelstug with plan. Buppido is going in to meet his contact to get us in.
+
+=== Session 7 2020/12/21 ===
+Took a cavern that lead upstream from the lake
+Fought monster in the cavern
+Made a friend, Locket
+Fought some Merrow in a lock house on the lake/river
 
 === Session 6 2020/12/17 ===
 Entering Shushar's village
-
+The fish ppl had a bloody culling and summoned Demogorgon
+We escaped the village on a raft and are floating in an underground lake
 
 === Session 5 2020/12/03 ===
 Fought maw demon and Dybbuk. long rest.

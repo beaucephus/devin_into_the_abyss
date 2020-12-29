@@ -8,16 +8,31 @@ Created Saturday 24 October 2020
 [[:Inventory]]
 Dwarf fighter 2
 
-Max HP: 24 (10 + 8) + (2 x 3)
+Max HP: 37 (10 + 8 + 10) + (3 x 3)
 
 **Passive**
 Resistance to poison and advantage on saves against poison
 darkvision 60ft
 defense fighting style +1 AC
+[[:Weapon Bond]]
 
 **Short Rest**
 Second Wind
 Action Surge
+
+**Long Rest**
+Spells
+
+=== Spells ===
+**Cantrips**
+Booming Blade
+Message
+
+**1st**
+Absorb Elements
+Earth Tremor
+Shield
+
 
 
 
