@@ -5,16 +5,30 @@ Creation-Date: 2020-10-29T20:12:58-04:00
 ====== Home ======
 Created Thursday 29 October 2020
 
-HP: 37/37
+HP: 7/37
 2 insanity points
-
+exhaustion 1
+action surge
+second wind
 **Spell Slots**
 **1st**
-0/2
+2/2
 
-=== Session 9 2020/01/07 ===
+=== Session 11 2021/01/28 ===
+Infiltrating darrow insurrection hideout. Found demonic rituals. Fought darrow and etin.
+Found ritual statues with names, Dorhun, and Hagraam.
+
+=== Session 10 2021/01/21 ===
+Meeting with the owner of this part of the city
+Leader, Errd Blackskull, "hired" us to investigate a Darrow insurrection in the Westcleff area.
+On our way encountered darrow sneaking around planting and stealing something.
+A stone giant caused a ruckus in the street.
+
+=== Session 9 2021/01/07 ===
 Entering Grakelstug. Heading towards the market district to find clothes and a map to the surface.
 Ylsa traded us clothes.
+Fought some guards, killed them.
+Got arrested.
 
 === Session 8 2020/12/28 ===
 Left lock house.
