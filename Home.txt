@@ -5,14 +5,18 @@ Creation-Date: 2020-10-29T20:12:58-04:00
 ====== Home ======
 Created Thursday 29 October 2020
 
-HP: 7/37
+HP: 45/45
 2 insanity points
-exhaustion 1
-action surge
-second wind
 **Spell Slots**
 **1st**
-2/2
+0/2
+
+=== Session 12 2021/02/04 ===
+Mantle Dareth: Zhentarim trading outpost on the darklake
+wyrmwrithings, northwest
+Blingdenstone to the north
+Drow have been looking for us in Gracklestug, but Errd sent them in the wrong direction
+Went to meet Thermbershow, the Wyrmsmith, the Red Dragon in Graklestug
 
 === Session 11 2021/01/28 ===
 Infiltrating darrow insurrection hideout. Found demonic rituals. Fought darrow and etin.

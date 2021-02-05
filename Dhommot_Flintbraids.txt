@@ -6,9 +6,9 @@ Creation-Date: 2020-10-24T15:26:44-04:00
 Created Saturday 24 October 2020
 [[:Backstory]]
 [[:Inventory]]
-Dwarf fighter 3
+Dwarf fighter 4
 
-Max HP: 37 (10 + 8 + 10) + (3 x 3)
+Max HP: 45 (10 + 8 + 10 + 5) + (3 x 4)
 
 **Passive**
 Resistance to poison and advantage on saves against poison

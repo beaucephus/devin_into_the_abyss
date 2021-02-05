@@ -5,26 +5,38 @@ Creation-Date: 2020-10-29T20:25:14-04:00
 ====== Inventory ======
 Created Thursday 29 October 2020
 
-**Equiped**
-maul (2d6 bludgeoning)
-longsword
-dagger
-dagger
-Mythril plate (No disadvantage on stealth)
-bag of caltrops
-
-**Backpack**
-all the writings, paper, and books from the demonic ritual cave underneath Gracklestug
-copper wire (10lbs)
-Drow short sword
-Drow shield
-hand-crossbows (2 drow-poisoned bolts)
 9gp
 2sp
 12cp
-3 makeshift mushroom torches
-hogs head sack
-20 rations
-2 burlap sacks
+
+**Equiped**
++2 magic maul
+dagger 2
+Drow short sword
+Drow shield
+Mythril plate (No disadvantage on stealth)
+bag of caltrops
+bag of ball bearings
+component pouch
+3 alchemist's fire
+
+**Backpack**
+Map of the Underdark
+Grappling Hook
+Lock
+Magnifying Glass
+Manacles
+Tinderbox
+Torch 10
+crowbar
+2 climbing kits
+block and tackle
+fishing tackle
+Healer's Kit
+Hunting Trap
+Greater Healing Potion
+Superior Healing Potion
+copper wire (10lbs)
+hand-crossbows (2 drow-poisoned bolts) (20 bolts)
+rations
 90 foot spider-silk rope
-phosphorescent moss (light)
