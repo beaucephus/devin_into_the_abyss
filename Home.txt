@@ -5,11 +5,17 @@ Creation-Date: 2020-10-29T20:12:58-04:00
 ====== Home ======
 Created Thursday 29 October 2020
 
-HP: 45/45
+HP: 33/45
 2 insanity points
 **Spell Slots**
 **1st**
-0/2
+2/2
+hit dice 2
+action surge
+
+=== Session 13 2021/02/11 ===
+On the way to Blingdenstone, fought land shark monster (bullete)
+Found Tomb, "Here lies Brysus of Khaem"
 
 === Session 12 2021/02/04 ===
 Mantle Dareth: Zhentarim trading outpost on the darklake

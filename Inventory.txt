@@ -10,10 +10,10 @@ Created Thursday 29 October 2020
 12cp
 
 **Equiped**
-+2 magic maul
-dagger 2
++2 magic maul (weapon bond)
+dagger (weapon bond)
+dagger (weapon bond)
 Drow short sword
-Drow shield
 Mythril plate (No disadvantage on stealth)
 bag of caltrops
 bag of ball bearings
@@ -21,6 +21,7 @@ component pouch
 3 alchemist's fire
 
 **Backpack**
+Drow shield
 Map of the Underdark
 Grappling Hook
 Lock
