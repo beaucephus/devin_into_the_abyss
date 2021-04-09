@@ -5,20 +5,19 @@ Creation-Date: 2020-10-29T20:25:14-04:00
 ====== Inventory ======
 Created Thursday 29 October 2020
 
-9gp
+970gp
 2sp
 12cp
 
 **Equiped**
 +2 magic maul (weapon bond)
 dagger (weapon bond)
-dagger (weapon bond)
+dagger
 Drow short sword
 Mythril plate (No disadvantage on stealth)
 bag of caltrops
-bag of ball bearings
-component pouch
-3 alchemist's fire
+component pouch (powdered iron and silver)
+1 alchemist's fire
 
 **Backpack**
 Drow shield
@@ -36,7 +35,6 @@ fishing tackle
 Healer's Kit
 Hunting Trap
 Greater Healing Potion
-Superior Healing Potion
 copper wire (10lbs)
 hand-crossbows (2 drow-poisoned bolts) (20 bolts)
 rations

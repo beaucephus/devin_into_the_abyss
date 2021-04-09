@@ -6,15 +6,16 @@ Creation-Date: 2020-10-24T15:26:44-04:00
 Created Saturday 24 October 2020
 [[:Backstory]]
 [[:Inventory]]
-Dwarf fighter 4
+Dwarf fighter 7
 
-Max HP: 45 (10 + 8 + 10 + 5) + (3 x 4)
+Max HP: 70 (10 + 8 + 10 + 5 + 7 + 2 + 7) + (3 x 7)
 
 **Passive**
 Resistance to poison and advantage on saves against poison
 darkvision 60ft
 defense fighting style +1 AC
 [[:Weapon Bond]]
+Extra Attack
 
 **Short Rest**
 Second Wind
@@ -25,13 +26,17 @@ Spells
 
 === Spells ===
 **Cantrips**
-Booming Blade
+Friends
 Message
 
 **1st**
 Absorb Elements
 Earth Tremor
 Shield
+
+**2nd**
+Blur
+Misty Step
 
 
 

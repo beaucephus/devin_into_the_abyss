@@ -5,13 +5,39 @@ Creation-Date: 2020-10-29T20:12:58-04:00
 ====== Home ======
 Created Thursday 29 October 2020
 
-HP: 33/45
+HP: 33/60
 2 insanity points
 **Spell Slots**
 **1st**
-2/2
-hit dice 2
+2/3
+**2nd**
+0/2
+hit dice 0
+second wind
 action surge
+
+=== Session 17 2021/04/08 ===
+Negioated a tenuous alliance between the Svifneblin and Wererat factions.
+We led a small task force including some gnomes to attack the pudding king while Dorbo and Chipgrin fight the bulk of the slimes
+
+
+=== Session 16 2021/02/18 ===
+Restored the earth elemental alter and killed a medusa
+Recovered Vort, a petrified Svirfneblin, and gave him to his brother.
+Went to meet the goldwhiskers. Met with their leader, Chipgrin.
+Waiting to try to talk with Dorbo to gain his aproval for the attack on the pudding monster
+
+=== Session 15 2021 ===
+Arrived at Blingdenstone
+Dorbo and Senni Diggermaddock are the current leaders. They may have jobs for us? 
+They have a ghost problem.
+Ogrimock's bane. A curse that corrupts the elementals in Blingdenstone.
+The golden whiskers, a cursed wererat civilization beyond the door.
+
+=== Session 14 2021/02/25 ===
+Found myconid colony, Stool's home. They're having a wedding. The wedding is a trap
+There is a weird red ooze creature, Yestabrod, in the colony
+They summoned Zuggtmoy, the demon lord.
 
 === Session 13 2021/02/11 ===
 On the way to Blingdenstone, fought land shark monster (bullete)
