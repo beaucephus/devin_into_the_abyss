@@ -5,9 +5,7 @@ Creation-Date: 2020-10-29T20:25:14-04:00
 ====== Inventory ======
 Created Thursday 29 October 2020
 
-970gp
-2sp
-12cp
+174gp
 
 **Equiped**
 +2 magic maul (weapon bond)

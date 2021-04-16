@@ -5,21 +5,24 @@ Creation-Date: 2020-10-29T20:12:58-04:00
 ====== Home ======
 Created Thursday 29 October 2020
 
-HP: 33/60
+HP: 70/70
 2 insanity points
 **Spell Slots**
 **1st**
-2/3
+0/4
 **2nd**
 0/2
 hit dice 0
-second wind
-action surge
+Inspiration
+
+=== Session 18 2021/04/15 ===
+Downtime and re-uniting in Gauntlgrym.
+Mantel Dareth - that is where we can find a mapper, Ghazrim Du' Loc to lead us to...
+Gravenhollow - a stone-giant library where we mind find more information on the demonic summonings.
 
 === Session 17 2021/04/08 ===
 Negioated a tenuous alliance between the Svifneblin and Wererat factions.
 We led a small task force including some gnomes to attack the pudding king while Dorbo and Chipgrin fight the bulk of the slimes
-
 
 === Session 16 2021/02/18 ===
 Restored the earth elemental alter and killed a medusa

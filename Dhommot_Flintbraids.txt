@@ -16,6 +16,8 @@ darkvision 60ft
 defense fighting style +1 AC
 [[:Weapon Bond]]
 Extra Attack
+[[:Mage Slayer]]
+[[:War Caster]]
 
 **Short Rest**
 Second Wind
