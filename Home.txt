@@ -9,11 +9,23 @@ HP: 70/70
 2 insanity points
 **Spell Slots**
 **1st**
-0/4
+1/4
 **2nd**
-0/2
+2/2
 hit dice 0
-Inspiration
+
+=== Session 19 2021/04/29 ===
+Traveling with the Zhents and crew to Mantel Dareth, then Gravenhollow
+Arrived at Matol Darith and mediated an altercation between the Duergar and Svirfneblin there
+Met Gunther, the leader of the Duergar patrol
+Met Gabel Dripskillet, the leader of the Mantol Derith Svirfneblin
+We learned from Gabel that Yantha was supposed to meet with the local Zhents, but hasn't returned.
+  That was 5 days ago.
+Yantha went to the Zhent enclave to meet and gather supplies for Blingdenstone
+We're supposed to contact Ghazrim for a mapper
+Ghazrim is meeting Lorthum
+Krimgol is a dueregar gem trader. He received the shipment to the Dueregar of the large black gemstone
+Gazhrim recently met with a beholder, Lor'thum
 
 === Session 18 2021/04/15 ===
 Downtime and re-uniting in Gauntlgrym.
