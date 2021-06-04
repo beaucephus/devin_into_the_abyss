@@ -5,14 +5,27 @@ Creation-Date: 2020-10-29T20:12:58-04:00
 ====== Home ======
 Created Thursday 29 October 2020
 
-HP: 70/70
-2 insanity points
+HP: 50/(50)70
+S.A.M. HP: 142
+3 insanity points
 **Spell Slots**
 **1st**
-1/4
+0/4
 **2nd**
 2/2
-hit dice 0
+hit dice 7
+action surge
+second wind
+exhaustion 2
+
+=== Session 21 2021/05/13 ===
+Fighting the drow cutltist at the bottom of the drow enclave dungeon
+We went through the portal
+
+=== Session 20 2021/05/06 ===
+Trying to find the missing black gem.
+Met Krimgol, his story doesn't match with Gunther's guards.
+Eventually found the demonic ritual in the Drow enclave.
 
 === Session 19 2021/04/29 ===
 Traveling with the Zhents and crew to Mantel Dareth, then Gravenhollow

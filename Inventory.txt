@@ -9,6 +9,7 @@ Created Thursday 29 October 2020
 
 **Equiped**
 +2 magic maul (weapon bond)
+Shield guardian amulet
 dagger (weapon bond)
 dagger
 Drow short sword
@@ -18,6 +19,7 @@ component pouch (powdered iron and silver)
 1 alchemist's fire
 
 **Backpack**
+2 ornate knives
 Drow shield
 Map of the Underdark
 Grappling Hook
