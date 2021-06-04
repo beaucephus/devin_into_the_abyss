@@ -5,22 +5,30 @@ Creation-Date: 2020-10-29T20:12:58-04:00
 ====== Home ======
 Created Thursday 29 October 2020
 
-HP: 50/(50)70
+HP: 83/83
 S.A.M. HP: 142
-3 insanity points
 **Spell Slots**
 **1st**
 0/4
 **2nd**
-2/2
-hit dice 7
-action surge
-second wind
-exhaustion 2
+0/2
+
+=== Session 22 2021/06/03 ===
+Interrogating a Drow cultist. They were trying to summon Fraz Erblue, the lord of Illusions.
+Recovering and trying to find a way to Gravenhollow.
+Gravenhollow shifts in location over time.
+Stonespeaker Hagram sent a parcel with a ring. The ring creates a mental project of the path to Gravenhollow.
+Went to Gracklestug. Met Hagram, he healed us, NICEST STONE GIANT EVER.
+The gem stone is somehow related to the "spreading dark"
+We got the ring from Stonespeaker Haram. Used the ring to travel to Gravenhollow over a month.
 
 === Session 21 2021/05/13 ===
-Fighting the drow cutltist at the bottom of the drow enclave dungeon
-We went through the portal
+Met the leader of the Drow, Sirrac. She let us under pressure by the other factions into their enclave.
+Fighting the drow cutltist at the bottom of the drow enclave dungeon.
+Lorthun and Gazhrim died.
+We went through the portal.
+Lost all proficiency bonuses
+**Level 8!!!**
 
 === Session 20 2021/05/06 ===
 Trying to find the missing black gem.

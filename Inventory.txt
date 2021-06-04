@@ -5,7 +5,7 @@ Creation-Date: 2020-10-29T20:25:14-04:00
 ====== Inventory ======
 Created Thursday 29 October 2020
 
-176gp
+75gp
 
 **Equiped**
 +2 magic maul (weapon bond)
@@ -19,6 +19,7 @@ component pouch (powdered iron and silver)
 1 alchemist's fire
 
 **Backpack**
+22 bandages
 2 ornate knives
 Drow shield
 Map of the Underdark
@@ -34,7 +35,8 @@ block and tackle
 fishing tackle
 Healer's Kit
 Hunting Trap
-Greater Healing Potion
+Potion of Healing
+Potion of Greater Healing 
 copper wire (10lbs)
 hand-crossbows (2 drow-poisoned bolts) (20 bolts)
 rations
