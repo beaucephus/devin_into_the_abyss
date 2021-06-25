@@ -8,7 +8,7 @@ Created Saturday 24 October 2020
 [[:Inventory]]
 Dwarf fighter 8
 
-Max HP: 83 (10 + 8 + 10 + 5 + 7 + 2 + 7 + 10) + (3 x 8)
+Max HP: 89 (10 + 8 + 10 + 5 + 7 + 2 + 7 + 10 + 3) + (3 x 9)
 
 **Passive**
 Resistance to poison and advantage on saves against poison
@@ -26,6 +26,7 @@ Action Surge
 
 **Long Rest**
 Spells
+[[:Indomitable]]
 
 === Spells ===
 **Cantrips**

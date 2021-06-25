@@ -5,13 +5,43 @@ Creation-Date: 2020-10-29T20:12:58-04:00
 ====== Home ======
 Created Thursday 29 October 2020
 
-HP: 83/83
+HP: 72/83
 S.A.M. HP: 142
 **Spell Slots**
 **1st**
 0/4
 **2nd**
-0/2
+1/2
+
+action surge
+
+=== Session 24 2021/06/24 ===
+Meeting Vinzren in his tower of Araj.
+McGuffin Shopping List
+-Unhatched Purple Worm Egg - Wormwrithings
+-Central Eye of Beholder - Wormwrithings
+-6 Unique Angel Feathers - Gallery of Angels
+-Heart of a Goristro - Labyrinth
+-13 Tim Masks(?) - sprouted from the footsteps(?) of a Mailithr, Balor, or Goristro - Labyrinth? - DON'T TOUCH
+-Drops of blood or ichor from Demon Lord
+Gave us special vials for the demon blood
+
+=== Session 23 2021/06/17 ===
+Gravenhollow has 3 keeper stone giants
+Ulthar - Keeper of the past
+Urmas - Keeper of the present
+Ustova - Keeper of the future
+
+**Individuals who can banish high level demons**
+Illestrial Silverhand
+Grompf Baenre
+jalynfein oblodra
+
+Scry'd on Grompf summoning the demons
+Claw book
+
+Deal with Vizren, Drow mage
+He's concocting a plan, we're travelling to his tower, Araj.
 
 === Session 22 2021/06/03 ===
 Interrogating a Drow cultist. They were trying to summon Fraz Erblue, the lord of Illusions.

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-06-24T21:12:15-04:00
+
+====== Indomitable ======
+Created Thursday 24 June 2021
+
+Reroll a saving throw that you fail.
+If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.
