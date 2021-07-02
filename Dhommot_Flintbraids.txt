@@ -6,9 +6,9 @@ Creation-Date: 2020-10-24T15:26:44-04:00
 Created Saturday 24 October 2020
 [[:Backstory]]
 [[:Inventory]]
-Dwarf fighter 8
+Dwarf fighter 10
 
-Max HP: 89 (10 + 8 + 10 + 5 + 7 + 2 + 7 + 10 + 3) + (3 x 9)
+Max HP: 96 (10 + 8 + 10 + 5 + 7 + 2 + 7 + 10 + 3 + 4) + (3 x 10)
 
 **Passive**
 Resistance to poison and advantage on saves against poison
@@ -32,16 +32,18 @@ Spells
 **Cantrips**
 Friends
 Message
+Minor Illusion
 
 **1st**
 Absorb Elements
 Protection from Evil and Good
 Shield
+Snare
 
 **2nd**
-Blur
+Gust of Wind
 Misty Step
-Warding Wind
+Shadow Blade
 
 
 

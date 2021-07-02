@@ -5,15 +5,20 @@ Creation-Date: 2020-10-29T20:12:58-04:00
 ====== Home ======
 Created Thursday 29 October 2020
 
-HP: 72/83
-S.A.M. HP: 142
+HP: 48/96
 **Spell Slots**
 **1st**
-0/4
+1/4
 **2nd**
-1/2
+3/3
 
+second wind
 action surge
+indomitable
+
+=== Session 25 2021/07/01 ===
+Found purple worm den. Got 2 eggs.
+S.A.M. Fucking Died!
 
 === Session 24 2021/06/24 ===
 Meeting Vinzren in his tower of Araj.
